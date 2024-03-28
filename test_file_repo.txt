@@ -4,8 +4,11 @@
 
 26/03/2024: 
 - Troubleshooting istalasi laravel yang kemarin error
+- Melakukan percobaan coding frontend pada main page website
 
 27/03/2024:
 - Mempelajari node js dan cara mengimplementasikannya dengan frontend
+- Gagal beli burger lagi :(
 
 28/03/2024:
+- Mempelajari cara menggunakan Git dan GitHub
