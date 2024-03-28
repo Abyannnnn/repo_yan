@@ -4,3 +4,8 @@
 
 26/03/2024: 
 - Troubleshooting istalasi laravel yang kemarin error
+
+27/03/2024:
+- Mempelajari node js dan cara mengimplementasikannya dengan frontend
+
+28/03/2024:
