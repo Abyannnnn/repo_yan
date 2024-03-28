@@ -1,0 +1,5 @@
+Rencana fitur website yang akan diterapkan:
+
+Halaman admin yang mampu:
+- Menambah dan megurangi produk
+- mengedit informasi produk
