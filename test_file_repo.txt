@@ -1,0 +1,6 @@
+25/03/2024:
+- Mempelajari proses pengerjaan frontend menggunakan php, javascript, dan laravel
+- Istalasi laravel pada leptop
+
+26/03/2024: 
+- Troubleshooting istalasi laravel yang kemarin error
