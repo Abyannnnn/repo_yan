@@ -1,4 +1,5 @@
 12/02/2024: - Project Planning:
 Melakukan project planning dengan:
-- Mengasumsi dan mencatat apasaja yang harus dimiliki oleh website agar sesuai dengan kebutuhan klient 
-- Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma)
+- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum meberikan masukan dan penjelasan terhadap website yang akan dibuat.
+- Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
+- Memulai perangcangan dengan membuat design mockup website menggunakan figma.
