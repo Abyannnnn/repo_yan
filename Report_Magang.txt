@@ -28,3 +28,7 @@ Melakukan project planning dengan:
 - Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
 - Memulai perancangan dengan membuat design mockup website menggunakan figma.
 - Membuat design mockup halaman kegiatan sosial dan halaman login untuk admin.
+
+17-18/02/2024: - Week Days
+
+
