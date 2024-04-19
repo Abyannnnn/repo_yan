@@ -1,5 +1,30 @@
 12/02/2024: - Project Planning:
 Melakukan project planning dengan:
-- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum meberikan masukan dan penjelasan terhadap website yang akan dibuat.
+- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum memberikan masukan dan penjelasan terhadap website yang akan dibuat.
 - Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
-- Memulai perangcangan dengan membuat design mockup website menggunakan figma.
+- Memulai perancangan dengan membuat design mockup website menggunakan figma.
+
+13/02/2024: - Project Planning:
+Melakukan project planning dengan:
+- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum memberikan masukan dan penjelasan terhadap website yang akan dibuat.
+- Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
+- Memulai perancangan dengan membuat design mockup website menggunakan figma.
+- Membuat design mockup home page.
+
+14/02/2024: - Project Planning & Website Design:
+- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum memberikan masukan dan penjelasan terhadap website yang akan dibuat.
+- Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
+- Memulai perancangan dengan membuat design mockup website menggunakan figma.
+- Membuat design mockup halaman katalog produk.
+
+15/02/2024: - Project Planning & Website Design:
+- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum memberikan masukan dan penjelasan terhadap website yang akan dibuat.
+- Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
+- Memulai perancangan dengan membuat design mockup website menggunakan figma.
+- Membuat design mockup halaman donasi.
+
+16/02/2024: - Project Planning & Website Design:
+- Mencatat apasaja yang harus dimiliki(seperti fitur-fitur) oleh website berdasarkan asumsi, dikarenakan klien belum memberikan masukan dan penjelasan terhadap website yang akan dibuat.
+- Mempersiapkan aplikasi yang dibutuhkan untuk membantu proses pengembangan website (figma).
+- Memulai perancangan dengan membuat design mockup website menggunakan figma.
+- Membuat design mockup halaman kegiatan sosial dan halaman login untuk admin.
